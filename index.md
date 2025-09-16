@@ -20,6 +20,6 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ---
 
-https://nocthem.github.io/digitallibrary/webti/halaman1.html
+[Halaman 1](webti/halaman1.html) [Halaman 2](webti/halaman2.html) [Halaman 3](webti/halaman3.html) [Halaman 4](webti/halaman4.html)
 
 *powered by GitHub pages*
