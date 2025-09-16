@@ -20,6 +20,6 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ---
 
-<a href="webti/halaman1.html"> Halaman 1 </a>
+<a href="webti/halaman1.html"> Halaman 1 </a>  [Halaman 5](webti/halaman5.html)
 
 *powered by GitHub pages*
